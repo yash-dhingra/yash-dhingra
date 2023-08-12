@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Dhingra</h1>
-<h3 align="center">AI/ML Cloud Innovator | Leadership & Entrepreneurial Visionary</h3>
+<h3 align="center">AI/ML | Cloud Innovator | Leadership & Entrepreneurial Visionary</h3>
 
 <p align="left"> <a href="https://twitter.com/yashdhingra_" target="blank"><img src="https://img.shields.io/twitter/follow/yashdhingra_?logo=twitter&style=for-the-badge" alt="yashdhingra_" /></a> </p>
 
