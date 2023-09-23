@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashdhingra_" target="blank"><img src="https://img.shields.io/twitter/follow/yashdhingra_?logo=twitter&style=for-the-badge" alt="yashdhingra_" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing and Deep Learning**
+- 🌱 I’m currently learning **Cloud Computing, Deep Learning & Full Stack**
 
 - 💬 Ask me about **AI/ML**
 
